@@ -41,6 +41,22 @@
     font-size: 15px;
 }
 
+.MRSERLYNNE:hover{
+    border: 1px solid;
+    background-color: darkblue;
+    box-shadow: 3px 3px 3px green;
+    text-shadow: 3px 4px 5px gray;
+    filter: blur(1px);
+}
+
+.LORDAUGUSTUS:hover{
+    border:1px solid;
+    background-color: hotpink;
+    box-shadow: 3px 3px 3px blue;
+    text-shadow: 3px 4px 5px gray;
+    filter: blur(1px);
+}
+
 
 
 table{
