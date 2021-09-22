@@ -74,3 +74,21 @@ table tr:nth-child(even)
     background-color: #f2f2f2;
 }
 
+ ul.navbar-horizontal{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+ }
+ ul.navbar-horizontal li{
+     float: left;
+     background:linear-gradient(120deg, lightblue 50%, crimson 50%);
+ }
+ ul.navbar-horizontal a{
+     padding: 15px;
+     color: blue;
+     display: block;
+ }
+ul.navbar-horizontal a:hover{
+    color:yellow;
+    background-color:yellowgreen;
+}
